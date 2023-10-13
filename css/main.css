@@ -1,0 +1,56 @@
+.definition_card{
+    border-style: solid;
+    padding: 5%;
+    border-radius: 10px;
+    margin: 15px;
+    min-width: 100px;
+    max-width: 450px;
+    min-height: 265px;
+    
+}
+.definition_cont{
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: justify;
+}
+.FoodPhoto{
+    display: flex;
+    flex-direction: row;
+    width: 400px;
+    height: 200px;
+    max-width: 500px;
+    min-width: 350px;
+    border-radius: 10px;
+    margin: auto;
+}
+body{
+    margin: 5%;
+}
+main{
+    font-size: 15pt;
+    line-height: 150%;
+}
+h1{
+    font-size: 30pt;
+    position: relative;
+    text-align: center;
+}
+h2{
+    font-size: 22pt;
+    position: relative;
+    text-align: center;
+}
+h3{
+    font-size: large;
+    position: relative;
+    text-align: center;
+}
+footer{
+    background-color: gray;
+    font-size: 15pt;
+    height: 40px;
+    line-height: 40px;
+}
