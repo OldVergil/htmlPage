@@ -3,30 +3,30 @@
         display: none;
     }    
 }
-@media screen and (max-width:250px){
+@media screen and (max-width:239px){
     p{
-        font-size: 11pt;
+        font-size: 9pt;
         text-align: center;
     }
     h1{
-        font-size: 20pt;
-    }
-    h2{
         font-size: 15pt;
     }
-    h3{
+    h2{
         font-size: 13pt;
+    }
+    h3{
+        font-size: 12pt;
     }
     main{
         line-height: 110%;    
     }
     ol{
-        font-size: 11pt;
+        font-size: 9pt;
     }
     .definition_cont{
     text-align: center;
     }
     .mailLink{
-        font-size: 9pt;
+        font-size: 6pt;
     }
 }

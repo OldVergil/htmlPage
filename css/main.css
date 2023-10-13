@@ -5,7 +5,7 @@
     margin: 15px;
     min-width: 100px;
     max-width: 450px;
-    min-height: 265px;
+    min-height: 270px;
     
 }
 .definition_cont{
@@ -30,7 +30,7 @@ body{
     margin: 5%;
 }
 main{
-    font-size: 15pt;
+    font-size: 18pt;
     line-height: 150%;
 }
 h1{
@@ -44,13 +44,13 @@ h2{
     text-align: center;
 }
 h3{
-    font-size: large;
+    font-size: 20pt;
     position: relative;
     text-align: center;
 }
 footer{
     background-color: gray;
-    font-size: 15pt;
+    font-size: 18pt;
     height: 40px;
     line-height: 40px;
 }
