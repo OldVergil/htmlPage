@@ -3,6 +3,11 @@
         display: none;
     }    
 }
+@media screen and (max-width:379px){
+    footer{
+        font-size: 16pt;
+    }
+}
 @media screen and (max-width:239px){
     p{
         font-size: 9pt;
@@ -26,7 +31,7 @@
     .definition_cont{
     text-align: center;
     }
-    .mailLink{
+    footer{
         font-size: 6pt;
     }
 }
