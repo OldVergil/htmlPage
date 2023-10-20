@@ -5,14 +5,14 @@
 }
 @media screen and (max-width:399px){
     .mailLink{
-        font-size: 17pt;
+        font-size: 50%;
     }
 }
-@media screen and (max-width:360px){
+/* @media screen and (max-width:360px){
     .mailLink{
-        font-size: 80%;
+        font-size: 13pt;
     }
-}
+} */
 @media screen and (max-width:239px){
     p{
         font-size: 9pt;
