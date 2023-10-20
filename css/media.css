@@ -3,9 +3,9 @@
         display: none;
     }    
 }
-@media screen and (max-width:379px){
-    footer{
-        font-size: 16pt;
+@media screen and (max-width:399px){
+    .mailLink{
+        font-size: 95%;
     }
 }
 @media screen and (max-width:239px){
