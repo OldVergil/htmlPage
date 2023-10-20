@@ -3,16 +3,6 @@
         display: none;
     }    
 }
-@media screen and (max-width:399px){
-    .mailLink{
-        font-size: 30%;
-    }
-}
-/* @media screen and (max-width:360px){
-    .mailLink{
-        font-size: 13pt;
-    }
-} */
 @media screen and (max-width:239px){
     p{
         font-size: 9pt;
